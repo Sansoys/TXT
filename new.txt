@@ -1,0 +1,5 @@
+new:
+ name: Parhomenko Alexander Sergeevich
+ age: '16'
+ pet: '1'
+ salary: '100.000'
