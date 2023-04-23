@@ -1,0 +1,6 @@
+preferences:
+    favor_film: Bymer
+    favor_serial: Brigada
+    favor_food: Borsh
+    favor_season: summer
+    country: Germany
