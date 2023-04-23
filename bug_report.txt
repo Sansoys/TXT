@@ -1,1 +1,10 @@
-
+bug_report:
+  Bug_id:
+  Title: 
+  Severity:
+  Priority: 
+  Environment: 
+  Precondition: 
+  Step_To_Reproduce:
+  Actual_Result:
+  Expected_Result: 
